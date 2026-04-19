@@ -1,0 +1,18 @@
+name: dart_vika
+description: "A Dart package for Vika API to manage i18n translations."
+version: 0.0.1
+homepage: https://github.com/ValueNotify666/dart_vika
+repository: https://github.com/ValueNotify666/dart_vika.git
+issue_tracker: https://github.com/ValueNotify666/dart_vika/issues
+
+environment:
+  sdk: ^2.19.0
+
+dependencies:
+  http: ^1.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
